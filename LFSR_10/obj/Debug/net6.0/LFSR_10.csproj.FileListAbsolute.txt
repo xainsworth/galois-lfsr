@@ -1,0 +1,15 @@
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\bin\Debug\net6.0\LFSR_10.exe
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\bin\Debug\net6.0\LFSR_10.deps.json
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\bin\Debug\net6.0\LFSR_10.runtimeconfig.json
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\bin\Debug\net6.0\LFSR_10.dll
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\bin\Debug\net6.0\LFSR_10.pdb
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.csproj.AssemblyReference.cache
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.AssemblyInfoInputs.cache
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.AssemblyInfo.cs
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.csproj.CoreCompileInputs.cache
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.dll
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\refint\LFSR_10.dll
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.pdb
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\LFSR_10.genruntimeconfig.cache
+C:\Users\Ains\source\repos\LFSR_10\LFSR_10\obj\Debug\net6.0\ref\LFSR_10.dll
