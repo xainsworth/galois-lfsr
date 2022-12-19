@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
-int tableWidth = 97;
+int tableWidth = 98;
 
 Console.Write("Bir n değeri girin: ");
 int n = int.Parse(Console.ReadLine());
